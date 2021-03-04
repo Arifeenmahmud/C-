@@ -8,8 +8,26 @@
 
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
+
+void swap(int &x, int &y)
+{
+    int temp;
+
+    temp = x;
+    x = y;
+    y = temp;
 }
+
+int main(){
+int a, b;
+a = 10;
+b = 20;
+swap(a,b);
+//    int temp;
+//    temp = a;
+//    a = b;
+//    b = temp;
+    
+printf("%d %d \n",a,b);
+}
+
