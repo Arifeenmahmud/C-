@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "204947F8-5DAE-4962-9ED8-F59DDC2A0361"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F67D37A-45F9-445B-AC2E-682854CB54FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DefultConstractor/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "Widget"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7F67D37A-45F9-445B-AC2E-682854CB54FB - a23e14fe2220aa45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Widget::Widget()"
+                  moduleName = "DefultConstractor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arifeenmahmud/Desktop/C++/DefultConstractor/DefultConstractor/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "7F67D37A-45F9-445B-AC2E-682854CB54FB - a23e14fe2220aa45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Widget::Widget()"
+                  moduleName = "DefultConstractor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arifeenmahmud/Desktop/C++/DefultConstractor/DefultConstractor/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "8">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

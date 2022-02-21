@@ -14,6 +14,7 @@ public:
    ~ Widget() {--count;}
 static int count;
 };
+
 int Widget::count = 0;
 
 int main(int argc, const char * argv[]) {
